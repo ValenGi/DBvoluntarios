@@ -9,5 +9,17 @@
         "disponibilidadDeTiempo": "Tiempo completo",
         "mensaje": "Opcional"
       }
+    ],
+    "juguetes": [
+      {
+        "id": 1,
+        "descripcion": "Carrito"
+      }
+    ],
+    "libros": [
+      {
+        "id": 1,
+        "titulo": "Fabulas"
+      }
     ]
   }
