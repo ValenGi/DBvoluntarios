@@ -1,0 +1,13 @@
+{
+    "voluntarios": [
+      {
+        "id": 1,
+        "nombre": "Valentina",
+        "correoElectronico": "valentina@gmail.com",
+        "telefono": "123456789",
+        "areasDeInteres": ["Clases", "Música"],
+        "disponibilidadDeTiempo": "Tiempo completo",
+        "mensaje": "Opcional"
+      }
+    ]
+  }
